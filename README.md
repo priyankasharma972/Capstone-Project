@@ -2,6 +2,7 @@
 This casting agency models a company which is responsible for creating movies and managing actors by assigning movies to them.
 
 This Application is hosted on Heroku:
+https://star-casting-agency.herokuapp.com/
 
 
 ## Motivation
