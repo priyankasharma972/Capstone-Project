@@ -9,7 +9,7 @@ import json
 #----------------------------------------------------------------------------#
 # App Config.
 #----------------------------------------------------------------------------#
-database_path = "postgresql://postgres:Hari987@localhost:5432/capstonedb"
+database_path = os.environ['DATABASE_URL']
 
 db = SQLAlchemy()
 
