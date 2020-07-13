@@ -5,3 +5,4 @@ export EXECUTIVE_PRODUCER_TOKEN='eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjZ
 export AUTH0_DOMAIN='dev-09os6cx8.us.auth0.com'
 export API_AUDIENCE='http://localhost:5100'
 export ALGORITHMS=['RS256']
+export DATABASE_URL="postgresql://postgres:Hari987@localhost:5432/capstonedb"
